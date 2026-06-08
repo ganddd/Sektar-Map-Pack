@@ -1,0 +1,28 @@
+{
+    "context": "client",
+    "identifier": "com.pa.sektar.sektar-maps",
+    "display_name": "Sektar Map Pack",
+    "description": "Sektar Map Pack, unique and fun maps",
+    "author": "Sektar",
+    "version": "1.0.0",
+    "build": "124644",
+    "date": "2026-06-08",
+    "signature": "not yet implemented",
+    "forum": "https://steamcommunity.com/app/386070/discussions/0/562533105473288939/",
+    "icon": " ",
+    "category": [
+        "maps",
+        "pack",
+        "systems",
+        "planet",
+        "planets"
+    ],
+    "load_planet": [
+        "coui://ui/mods/com.pa.sektar.sektar-maps/maplist.js"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "authors": [
+        "Sektar"
+    ]
+}
