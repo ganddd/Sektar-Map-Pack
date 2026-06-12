@@ -20,5 +20,5 @@
     "load_planet": [
         "coui://ui/mods/com.pa.sektar.sektar-maps/maplist.js"
     ],
-    "priority": 100,
+    "priority": 100
 }
