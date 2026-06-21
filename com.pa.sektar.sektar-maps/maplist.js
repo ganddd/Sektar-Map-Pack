@@ -13,5 +13,6 @@ cShareSystems.load_pas("Sektar Map Pack", [
 	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/reactor_nomegatron (8v8).pas",
 	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/rip_and tear (5v5).pas",
 	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/scp-1488-28.pas",
-	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/protocol_subzero-443 (5v5-4v4).pas"
+	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/protocol_subzero-443 (5v5-4v4).pas",
+	"coui://ui/mods/com.pa.sektar.sektar-maps/systems/holkins is a war crime (1v1-2v2-4v4-5v5)"
 ]);
